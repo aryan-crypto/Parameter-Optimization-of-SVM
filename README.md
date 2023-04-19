@@ -4,7 +4,7 @@
  - No. of Instances:19020
 * No. of Attributes:11
 
-### Kernels Used:
+Kernels Used:
 - linear
 - poly
 - rbf
