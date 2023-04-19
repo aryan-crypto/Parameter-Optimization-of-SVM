@@ -1,6 +1,6 @@
 # Parameter-Optimization-of-SVM
  
- ###Dataset Used:[MAGIC Gamma Telescope](https://archive.ics.uci.edu/ml/datasets/MAGIC+Gamma+Telescope)
+ ### Dataset Used: [MAGIC Gamma Telescope](https://archive.ics.uci.edu/ml/datasets/MAGIC+Gamma+Telescope)
  - No. of Instances:19020
 * No. of Attributes:11
 
@@ -12,7 +12,7 @@ Kernels Used
 -sigmoid
 
 
-##FinalResult
+## FinalResult
  Sample       | Best Accuracy        | Best Kernel  | Best Nu|Best Epsilon|
 | ------------- |:-------------:| -----:|
 | 1      | 0.40 | sigmoid| 3.99|5.30|
@@ -28,6 +28,6 @@ Kernels Used
 
 
 
-##Covergence Graph
+## Covergence Graph
 ![Covergence_graph](https://user-images.githubusercontent.com/62788034/233204434-d6372f21-132f-4d86-b273-eb308bd987da.png)
 
