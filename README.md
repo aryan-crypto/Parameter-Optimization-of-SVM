@@ -4,8 +4,7 @@
  - No. of Instances:19020
 * No. of Attributes:11
 
-Parameter Optimisation of SVM
-Kernels Used
+### Kernels Used:
 - linear
 - poly
 - rbf
