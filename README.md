@@ -6,14 +6,14 @@
 
 Parameter Optimisation of SVM
 Kernels Used
--linear
--poly
--rbf
--sigmoid
+- linear
+- poly
+- rbf
+- sigmoid
 
 
 ## FinalResult
- Sample       | Best Accuracy        | Best Kernel  | Best Nu|Best Epsilon|
+| Sample       | Best Accuracy        | Best Kernel  | Best Nu|Best Epsilon|
 | ------------- |:-------------:| -----:|
 | 1      | 0.40 | sigmoid| 3.99|5.30|
 | 2      | 0.65 | rbf| 8.63|6.29|
